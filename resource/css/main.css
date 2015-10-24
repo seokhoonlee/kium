@@ -159,25 +159,25 @@ ul.navigation-bar-option li > a {
 	), url('../img/academic.jpeg');
 }
 
-.admission-img {
+.advertisement-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/admission.jpeg');
+	), url('../img/advertisement.jpeg');
 }
 
-.exchange-img {
+.discussion-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/exchange.jpeg');
+	), url('../img/discussion.jpeg');
 }
 
-.internship-img {
+.explore-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/internship.jpeg');
+	), url('../img/explore.jpeg');
 }
 
 /*ADDING IMAGE CLASS COPY FROM HERE*/
@@ -203,11 +203,11 @@ ul.navigation-bar-option li > a {
 	), url('../img/nus.jpg');
 }
 
-.residence-img {
+.school-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/residence.jpg');
+	), url('../img/school.jpg');
 }
 
 .seminar-img {
