@@ -159,18 +159,18 @@ ul.navigation-bar-option li > a {
 	), url('../img/academic.jpeg');
 }
 
-.advertisement-img {
+.advertise-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/advertisement.jpeg');
+	), url('../img/advertise.jpeg');
 }
 
-.discussion-img {
+.discuss-img {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4),
 		rgba(0, 0, 0, 0.4)
-	), url('../img/discussion.jpeg');
+	), url('../img/discuss.jpeg');
 }
 
 .explore-img {
